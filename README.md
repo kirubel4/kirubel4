@@ -6,7 +6,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kirubel4" alt="kirubel4" /></a> </p>
 
 - 🔭 I’m currently working on **EAGLEGLOW-WUSHU website**
-
+- build **ML/AI projects and websites**
 - 📫 How to reach me **kirubelayele2127@gmail.com**
 <div align="right">
     <img alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
